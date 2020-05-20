@@ -1,0 +1,30 @@
+
+Roll no: 2
+ 
+Name: Patel
+ 
+Avg marks: 99
+ 
+Grade: A
+ 
+Marks of:
+     Subject 1: 99
+     Subject 2: 99
+     Subject 3: 99
+ 
+- - - - - - - - - - - - - - -
+
+Roll no: 3
+ 
+Name: Karan
+ 
+Avg marks: 99
+ 
+Grade: A
+ 
+Marks of:
+     Subject 1: 99
+     Subject 2: 99
+     Subject 3: 99
+ 
+- - - - - - - - - - - - - - -

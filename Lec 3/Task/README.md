@@ -1,0 +1,26 @@
+listSpacing.py
+
+    1
+    2
+    3
+      a  
+      b  
+      c  
+    4
+    5
+      d  
+      e  
+    6
+    7
+    8
+    9
+      f  
+      g  
+      h  
+      i  
+    10
+      j  
+    11
+      k  
+    12
+      l  

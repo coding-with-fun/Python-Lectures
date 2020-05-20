@@ -1,0 +1,15 @@
+
+Roll no: 1
+ 
+Name: Harsh
+ 
+Avg marks: 47
+ 
+Grade: C
+ 
+Marks of:
+     Subject 1: 32
+     Subject 2: 75
+     Subject 3: 36
+ 
+- - - - - - - - - - - - - - -

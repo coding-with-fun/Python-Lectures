@@ -1,0 +1,15 @@
+
+Roll no: 4
+ 
+Name: Het
+ 
+Avg marks: 67
+ 
+Grade: B
+ 
+Marks of:
+     Subject 1: 42
+     Subject 2: 65
+     Subject 3: 96
+ 
+- - - - - - - - - - - - - - -

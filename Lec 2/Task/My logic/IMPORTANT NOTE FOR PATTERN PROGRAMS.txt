@@ -1,0 +1,34 @@
+While writing pattern programs, most important is indentation. But while thinking logically, it’s very simple. 
+
+Eg.
+
+Enter no of rows: 5
+         *  
+       *   *  
+     *   *   *  
+   *   *   *   *  
+ *   *   *   *   *
+
+1	rows = int(input("Enter no of rows: "))
+2	space = rows-1
+3	# space logic made simple
+4	count = 1
+5	
+6	for i in range(rows):
+7	    for j in range(space):
+8	        print(" ", end=" ")
+9	        # One space here in loop
+10	
+11	    for k in range(i+1):
+12	        print(" * ", end=" ")
+13	        # Three spaces here in end parameter
+14	        count = count+1
+15	
+16	    print("")
+17	    space = space-1
+18	    # Change in decrement
+
+
+	Here, total number of rows are 5. So we will take space before the number only 4 times, as the last row won’t have a space. So in the line 2 we will take space = rows – 1. Thus in  line 7, the loop will go from 0 to 4 for the 1st time and will leave 4 spaces for the 1st star.
+
+	The same logic is applied for all the other times but it decreases with every loop. The other indentation is possible because of the spaces we leave in lines 8th and 12th. Like this a perfect star structure is made.
